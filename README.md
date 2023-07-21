@@ -10,3 +10,6 @@ This application calculates the cumulative signal loss by taking into considerat
 
 
 Naming: "Vaayu" is named after the Sanskrit word (वायु) for "air". Since it is a tool designed to analyze signal loss over the air interface in wireless communication systems. Hence it emphasizes the tool's focus on understanding the impact of air medium on signal propagation.
+
+## Cite As
+Sandip Jana (2023). Vaayu (https://www.mathworks.com/matlabcentral/fileexchange/132588-vaayu), MATLAB Central File Exchange. Retrieved July 21, 2023.
